@@ -1,14 +1,22 @@
 # Andrei Bondarev
--------
-18/02/1986
 
-tel. +375 29 876-48-19
 
-email: andrei.minsk.1986@gmail.com
+**[Telephone](tel:+375298764819 "Link to tel")**
 
-skype: trasser933 
+**[Email](mailto:andrei.minsk.1986@gmail.com "Link to Email")**
 
-Linkedin: https://www.linkedin.com/in/andrei-bondarev-68a776173/
+**[Telegram](https://t.me/Andrei_Bondarev_1986 "Link to Telegram")**
+
+**[Skype](skype:trasser933 "Link to Skype")**
+
+**[linkedin](https://www.linkedin.com/in/andrei-bondarev-68a776173/ "Link to linkedin")**
+
+______
+
+### SUMMARY
+
+> **Junior web developer with little work experience but with a great desire to learn new things. I want to strive for the highest goals, solve interesting problems and complex tasks. My weapon is modern technology and high quality code.**
+
 
 ### SKILLS
 
