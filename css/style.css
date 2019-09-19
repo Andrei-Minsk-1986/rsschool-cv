@@ -1,0 +1,133 @@
+body {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    color: #292423;
+    background-color: #F9F9F9;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1,
+h2,
+h3 {
+    color: #F08776;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    color: #292423;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.wrapper {
+    max-width: 1024px;
+	margin: 0 auto;
+    padding: 40px 0;
+}
+
+
+.entry {
+    display: flex;
+
+}
+
+/*.block-portrait {
+    padding: 2px;
+    background-color: #c7c1c1;
+    box-shadow: 0px 0px 5px 0px rgba(168,159,168,1);
+
+}*/
+
+.block-portrait img {
+    width: 250px;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.self {
+    margin-left: 30px;
+}
+
+.self-title h1 {
+    padding: 20px 0;
+}
+address {
+    display: inline;
+    font-style: normal;
+}
+.self-text li {
+    margin-bottom: 5px;
+    color: #7B776E;
+    list-style: none;
+}
+
+.self-text a {
+    text-decoration: none;
+    color: #7B776E;
+    transition: all 0.4s;
+}
+
+.self-text a:hover {
+    color: #FA7962;
+}
+
+.self-text .fa {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+
+
+
+/*Main*/
+
+.about-me {
+    margin-top: 60px;
+}
+
+.about-me h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+.about-me__summary {
+    margin-left: 250px;
+}
+.about-me__info {
+    display: flex;
+    margin-top: 30px;
+}
+
+.date {
+    width: 250px;
+}
+
+
+.about-me__text span {
+    font-style: italic;
+}
+
+
+.about-me__list li {
+    margin-left: 30px;
+    list-style-type: circle;
+
+}
+
+.about-me__skills {
+    margin-left: 250px;
+    list-style-type: circle;
+}
+.about-me__skills li{
+    margin-left: 30px;
+}
+
